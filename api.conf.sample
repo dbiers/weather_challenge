@@ -1,0 +1,3 @@
+#!/bin/bash
+
+APIKEY="key here" # Get your API key from OpenWeather
